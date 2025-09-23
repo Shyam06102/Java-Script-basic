@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 console.log('Start'); 
 setTimeout(() => { 
 console.log('End'); 
 }, 1000); 
 console.log('Start java script'); 
 
+=======
+java setTime out
+>>>>>>> c80b919f28ec05892637588e1c8f8e1d7fedbcac
