@@ -1,1 +1,5 @@
-
+function person(name) {
+    return "Hello " + name;
+}
+let output = person("shyam");
+console.log(output);
