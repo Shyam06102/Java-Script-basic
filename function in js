@@ -1,5 +1,16 @@
+USING ES5
 function person(name) {
     return "Hello " + name;
 }
 let output = person("shyam");
 console.log(output);
+
+USING ES6
+let multiply = (a, b) => a * b; 
+console.log(multiply(2, 3)); 
+
+BOTH COMMON USING ANONYMOUS FUNCTION
+let multiply = function(a, b) {
+    return a * b;
+};
+console.log(multiply(2, 3)); 
