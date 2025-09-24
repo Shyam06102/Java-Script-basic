@@ -1,0 +1,8 @@
+const name = shyam;
+// 'const' cannot be reassigned
+let age = 24;
+// 'let' can be reassigned
+example 
+let age = 23;
+console.log(name);
+console.log(age);
