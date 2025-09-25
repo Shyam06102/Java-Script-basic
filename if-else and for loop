@@ -17,3 +17,9 @@ if (Rank < 3) {
         else {
             console.log("Needs Improvement");
         }
+
+for loop
+
+for (let i=1; i<10; i++) {
+    console.log("Iteration: " +i);
+}
