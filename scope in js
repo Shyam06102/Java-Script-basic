@@ -1,0 +1,9 @@
+ let person = "Shyam"; 
+function scopeTest() { 
+let game = "cricket"; 
+console.log(person); 
+console.log(game);
+}  
+scopeTest();
+console.log(person);      
+console.log(game); 
